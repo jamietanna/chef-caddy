@@ -3,6 +3,10 @@ caddy CHANGELOG
 
 This file is used to list changes made in each version of the caddy cookbook.
 
+0.5.2
+-----
+- Daniel Zabel - configurable binary name for github source use
+
 0.5.1
 -----
 - Daniel Zabel - configurable download url and ark attributes
