@@ -3,7 +3,13 @@ caddy CHANGELOG
 
 This file is used to list changes made in each version of the caddy cookbook.
 
-0.5.0 (DEV)
+0.5.1
+-----
+- Daniel Zabel - configurable download url and ark attributes
+- Daniel Zabel - ulimit default value to 8192
+- Daniel Zabel - fix rubocop style issues
+
+0.5.0
 -----
 - Christian Fischer - Update Testsuite images and ports
 - Gabriel Mazetto - Improve systemd compatibility
